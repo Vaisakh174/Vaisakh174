@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Vaisakh V S</h1>
-<h3 align="center">A passionate frontend developer(MEAN) from India</h3> 
+<h3 align="center">A passionate fullstack developer(MEAN) from India</h3> 
 
 <p align="center"> <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /> </p>
 
