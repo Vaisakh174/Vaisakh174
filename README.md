@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <p align="center">- 🌱 I’m currently learning <b>MEAN stack devolopement</b></p>
 
 
-<p align="center">- 📫 How to reach me : <b>Vaiahakh174@gmail.com</b> </p>
+<p align="center">- 📫 How to reach me : <b>Vaishakh174@gmail.com</b> </p>
 
 
 <p align="center">
